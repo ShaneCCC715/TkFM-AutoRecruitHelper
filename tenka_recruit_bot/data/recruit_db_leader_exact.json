@@ -1,0 +1,3199 @@
+{
+  "AoE": {
+    "combo": [
+      "AoE"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10003
+    ]
+  },
+  "attacker": {
+    "combo": [
+      "attacker"
+    ],
+    "mode": "leader",
+    "pool_size": 14,
+    "per_each": 0.07142857142857142,
+    "candidate_ids": [
+      10001,
+      10003,
+      10005,
+      10007,
+      10008,
+      10019,
+      10028,
+      10039,
+      10045,
+      10047,
+      10048,
+      10059,
+      10066,
+      10084
+    ]
+  },
+  "counterstrike": {
+    "combo": [
+      "counterstrike"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10002,
+      10056
+    ]
+  },
+  "damage_output": {
+    "combo": [
+      "damage_output"
+    ],
+    "mode": "leader",
+    "pool_size": 12,
+    "per_each": 0.08333333333333333,
+    "candidate_ids": [
+      10001,
+      10003,
+      10005,
+      10008,
+      10019,
+      10028,
+      10039,
+      10045,
+      10047,
+      10048,
+      10059,
+      10066
+    ]
+  },
+  "dark_attribute": {
+    "combo": [
+      "dark_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 6,
+    "per_each": 0.16666666666666666,
+    "candidate_ids": [
+      10002,
+      10008,
+      10033,
+      10039,
+      10057,
+      10066
+    ]
+  },
+  "defense": {
+    "combo": [
+      "defense"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10002,
+      10018,
+      10056
+    ]
+  },
+  "demihuman": {
+    "combo": [
+      "demihuman"
+    ],
+    "mode": "leader",
+    "pool_size": 8,
+    "per_each": 0.125,
+    "candidate_ids": [
+      10004,
+      10005,
+      10021,
+      10033,
+      10045,
+      10056,
+      10059,
+      10062
+    ]
+  },
+  "demon": {
+    "combo": [
+      "demon"
+    ],
+    "mode": "leader",
+    "pool_size": 8,
+    "per_each": 0.125,
+    "candidate_ids": [
+      10001,
+      10002,
+      10003,
+      10028,
+      10037,
+      10039,
+      10048,
+      10049
+    ]
+  },
+  "explosiveness": {
+    "combo": [
+      "explosiveness"
+    ],
+    "mode": "leader",
+    "pool_size": 9,
+    "per_each": 0.1111111111111111,
+    "candidate_ids": [
+      10004,
+      10005,
+      10008,
+      10019,
+      10028,
+      10039,
+      10048,
+      10066,
+      10084
+    ]
+  },
+  "fight_stronger": {
+    "combo": [
+      "fight_stronger"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10005,
+      10008,
+      10066
+    ]
+  },
+  "fire_attribute": {
+    "combo": [
+      "fire_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 6,
+    "per_each": 0.16666666666666666,
+    "candidate_ids": [
+      10001,
+      10037,
+      10045,
+      10049,
+      10068,
+      10084
+    ]
+  },
+  "flat_tits": {
+    "combo": [
+      "flat_tits"
+    ],
+    "mode": "leader",
+    "pool_size": 6,
+    "per_each": 0.16666666666666666,
+    "candidate_ids": [
+      10005,
+      10033,
+      10037,
+      10045,
+      10048,
+      10057
+    ]
+  },
+  "giant_tits": {
+    "combo": [
+      "giant_tits"
+    ],
+    "mode": "leader",
+    "pool_size": 5,
+    "per_each": 0.2,
+    "candidate_ids": [
+      10002,
+      10004,
+      10039,
+      10056,
+      10063
+    ]
+  },
+  "healer": {
+    "combo": [
+      "healer"
+    ],
+    "mode": "leader",
+    "pool_size": 5,
+    "per_each": 0.2,
+    "candidate_ids": [
+      10006,
+      10021,
+      10049,
+      10062,
+      10068
+    ]
+  },
+  "human": {
+    "combo": [
+      "human"
+    ],
+    "mode": "leader",
+    "pool_size": 8,
+    "per_each": 0.125,
+    "candidate_ids": [
+      10006,
+      10018,
+      10019,
+      10020,
+      10047,
+      10057,
+      10063,
+      10068
+    ]
+  },
+  "light_attribute": {
+    "combo": [
+      "light_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 4,
+    "per_each": 0.25,
+    "candidate_ids": [
+      10003,
+      10007,
+      10019,
+      10063
+    ]
+  },
+  "medium_size": {
+    "combo": [
+      "medium_size"
+    ],
+    "mode": "leader",
+    "pool_size": 19,
+    "per_each": 0.05263157894736842,
+    "candidate_ids": [
+      10001,
+      10002,
+      10003,
+      10004,
+      10007,
+      10008,
+      10018,
+      10019,
+      10020,
+      10028,
+      10039,
+      10045,
+      10047,
+      10056,
+      10057,
+      10059,
+      10062,
+      10063,
+      10068
+    ]
+  },
+  "obstructer": {
+    "combo": [
+      "obstructer"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10020,
+      10033,
+      10037
+    ]
+  },
+  "protection": {
+    "combo": [
+      "protection"
+    ],
+    "mode": "leader",
+    "pool_size": 4,
+    "per_each": 0.25,
+    "candidate_ids": [
+      10018,
+      10056,
+      10062,
+      10068
+    ]
+  },
+  "protector": {
+    "combo": [
+      "protector"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10002,
+      10018,
+      10056
+    ]
+  },
+  "recovery": {
+    "combo": [
+      "recovery"
+    ],
+    "mode": "leader",
+    "pool_size": 6,
+    "per_each": 0.16666666666666666,
+    "candidate_ids": [
+      10006,
+      10021,
+      10049,
+      10062,
+      10063,
+      10068
+    ]
+  },
+  "small_size": {
+    "combo": [
+      "small_size"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10005
+    ]
+  },
+  "support": {
+    "combo": [
+      "support"
+    ],
+    "mode": "leader",
+    "pool_size": 9,
+    "per_each": 0.1111111111111111,
+    "candidate_ids": [
+      10004,
+      10007,
+      10020,
+      10021,
+      10049,
+      10057,
+      10062,
+      10063,
+      10068
+    ]
+  },
+  "supporter": {
+    "combo": [
+      "supporter"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10004,
+      10057,
+      10063
+    ]
+  },
+  "survivability": {
+    "combo": [
+      "survivability"
+    ],
+    "mode": "leader",
+    "pool_size": 4,
+    "per_each": 0.25,
+    "candidate_ids": [
+      10002,
+      10003,
+      10018,
+      10084
+    ]
+  },
+  "water_attribute": {
+    "combo": [
+      "water_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 4,
+    "per_each": 0.25,
+    "candidate_ids": [
+      10005,
+      10048,
+      10056,
+      10062
+    ]
+  },
+  "weaken": {
+    "combo": [
+      "weaken"
+    ],
+    "mode": "leader",
+    "pool_size": 4,
+    "per_each": 0.25,
+    "candidate_ids": [
+      10020,
+      10033,
+      10037,
+      10047
+    ]
+  },
+  "wind_attribute": {
+    "combo": [
+      "wind_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 8,
+    "per_each": 0.125,
+    "candidate_ids": [
+      10004,
+      10006,
+      10018,
+      10020,
+      10021,
+      10028,
+      10047,
+      10059
+    ]
+  },
+  "AoE|attacker": {
+    "combo": [
+      "AoE",
+      "attacker"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10003
+    ]
+  },
+  "AoE|damage_output": {
+    "combo": [
+      "AoE",
+      "damage_output"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10003
+    ]
+  },
+  "AoE|demon": {
+    "combo": [
+      "AoE",
+      "demon"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10003
+    ]
+  },
+  "AoE|light_attribute": {
+    "combo": [
+      "AoE",
+      "light_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10003
+    ]
+  },
+  "AoE|medium_size": {
+    "combo": [
+      "AoE",
+      "medium_size"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10003
+    ]
+  },
+  "AoE|survivability": {
+    "combo": [
+      "AoE",
+      "survivability"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10003
+    ]
+  },
+  "attacker|damage_output": {
+    "combo": [
+      "attacker",
+      "damage_output"
+    ],
+    "mode": "leader",
+    "pool_size": 12,
+    "per_each": 0.08333333333333333,
+    "candidate_ids": [
+      10001,
+      10003,
+      10005,
+      10008,
+      10019,
+      10028,
+      10039,
+      10045,
+      10047,
+      10048,
+      10059,
+      10066
+    ]
+  },
+  "attacker|dark_attribute": {
+    "combo": [
+      "attacker",
+      "dark_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10008,
+      10039,
+      10066
+    ]
+  },
+  "attacker|demihuman": {
+    "combo": [
+      "attacker",
+      "demihuman"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10005,
+      10045,
+      10059
+    ]
+  },
+  "attacker|demon": {
+    "combo": [
+      "attacker",
+      "demon"
+    ],
+    "mode": "leader",
+    "pool_size": 5,
+    "per_each": 0.2,
+    "candidate_ids": [
+      10001,
+      10003,
+      10028,
+      10039,
+      10048
+    ]
+  },
+  "attacker|explosiveness": {
+    "combo": [
+      "attacker",
+      "explosiveness"
+    ],
+    "mode": "leader",
+    "pool_size": 8,
+    "per_each": 0.125,
+    "candidate_ids": [
+      10005,
+      10008,
+      10019,
+      10028,
+      10039,
+      10048,
+      10066,
+      10084
+    ]
+  },
+  "attacker|fight_stronger": {
+    "combo": [
+      "attacker",
+      "fight_stronger"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10005,
+      10008,
+      10066
+    ]
+  },
+  "attacker|fire_attribute": {
+    "combo": [
+      "attacker",
+      "fire_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10001,
+      10045,
+      10084
+    ]
+  },
+  "attacker|flat_tits": {
+    "combo": [
+      "attacker",
+      "flat_tits"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10005,
+      10045,
+      10048
+    ]
+  },
+  "attacker|giant_tits": {
+    "combo": [
+      "attacker",
+      "giant_tits"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10039
+    ]
+  },
+  "attacker|human": {
+    "combo": [
+      "attacker",
+      "human"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10019,
+      10047
+    ]
+  },
+  "attacker|light_attribute": {
+    "combo": [
+      "attacker",
+      "light_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10003,
+      10007,
+      10019
+    ]
+  },
+  "attacker|medium_size": {
+    "combo": [
+      "attacker",
+      "medium_size"
+    ],
+    "mode": "leader",
+    "pool_size": 10,
+    "per_each": 0.1,
+    "candidate_ids": [
+      10001,
+      10003,
+      10007,
+      10008,
+      10019,
+      10028,
+      10039,
+      10045,
+      10047,
+      10059
+    ]
+  },
+  "attacker|small_size": {
+    "combo": [
+      "attacker",
+      "small_size"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10005
+    ]
+  },
+  "attacker|support": {
+    "combo": [
+      "attacker",
+      "support"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10007
+    ]
+  },
+  "attacker|survivability": {
+    "combo": [
+      "attacker",
+      "survivability"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10003,
+      10084
+    ]
+  },
+  "attacker|water_attribute": {
+    "combo": [
+      "attacker",
+      "water_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10005,
+      10048
+    ]
+  },
+  "attacker|weaken": {
+    "combo": [
+      "attacker",
+      "weaken"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10047
+    ]
+  },
+  "attacker|wind_attribute": {
+    "combo": [
+      "attacker",
+      "wind_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10028,
+      10047,
+      10059
+    ]
+  },
+  "counterstrike|dark_attribute": {
+    "combo": [
+      "counterstrike",
+      "dark_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10002
+    ]
+  },
+  "counterstrike|defense": {
+    "combo": [
+      "counterstrike",
+      "defense"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10002,
+      10056
+    ]
+  },
+  "counterstrike|demihuman": {
+    "combo": [
+      "counterstrike",
+      "demihuman"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10056
+    ]
+  },
+  "counterstrike|demon": {
+    "combo": [
+      "counterstrike",
+      "demon"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10002
+    ]
+  },
+  "counterstrike|giant_tits": {
+    "combo": [
+      "counterstrike",
+      "giant_tits"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10002,
+      10056
+    ]
+  },
+  "counterstrike|medium_size": {
+    "combo": [
+      "counterstrike",
+      "medium_size"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10002,
+      10056
+    ]
+  },
+  "counterstrike|protection": {
+    "combo": [
+      "counterstrike",
+      "protection"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10056
+    ]
+  },
+  "counterstrike|protector": {
+    "combo": [
+      "counterstrike",
+      "protector"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10002,
+      10056
+    ]
+  },
+  "counterstrike|survivability": {
+    "combo": [
+      "counterstrike",
+      "survivability"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10002
+    ]
+  },
+  "counterstrike|water_attribute": {
+    "combo": [
+      "counterstrike",
+      "water_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10056
+    ]
+  },
+  "damage_output|dark_attribute": {
+    "combo": [
+      "damage_output",
+      "dark_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10008,
+      10039,
+      10066
+    ]
+  },
+  "damage_output|demihuman": {
+    "combo": [
+      "damage_output",
+      "demihuman"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10005,
+      10045,
+      10059
+    ]
+  },
+  "damage_output|demon": {
+    "combo": [
+      "damage_output",
+      "demon"
+    ],
+    "mode": "leader",
+    "pool_size": 5,
+    "per_each": 0.2,
+    "candidate_ids": [
+      10001,
+      10003,
+      10028,
+      10039,
+      10048
+    ]
+  },
+  "damage_output|explosiveness": {
+    "combo": [
+      "damage_output",
+      "explosiveness"
+    ],
+    "mode": "leader",
+    "pool_size": 7,
+    "per_each": 0.14285714285714285,
+    "candidate_ids": [
+      10005,
+      10008,
+      10019,
+      10028,
+      10039,
+      10048,
+      10066
+    ]
+  },
+  "damage_output|fight_stronger": {
+    "combo": [
+      "damage_output",
+      "fight_stronger"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10005,
+      10008,
+      10066
+    ]
+  },
+  "damage_output|fire_attribute": {
+    "combo": [
+      "damage_output",
+      "fire_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10001,
+      10045
+    ]
+  },
+  "damage_output|flat_tits": {
+    "combo": [
+      "damage_output",
+      "flat_tits"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10005,
+      10045,
+      10048
+    ]
+  },
+  "damage_output|giant_tits": {
+    "combo": [
+      "damage_output",
+      "giant_tits"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10039
+    ]
+  },
+  "damage_output|human": {
+    "combo": [
+      "damage_output",
+      "human"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10019,
+      10047
+    ]
+  },
+  "damage_output|light_attribute": {
+    "combo": [
+      "damage_output",
+      "light_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10003,
+      10019
+    ]
+  },
+  "damage_output|medium_size": {
+    "combo": [
+      "damage_output",
+      "medium_size"
+    ],
+    "mode": "leader",
+    "pool_size": 9,
+    "per_each": 0.1111111111111111,
+    "candidate_ids": [
+      10001,
+      10003,
+      10008,
+      10019,
+      10028,
+      10039,
+      10045,
+      10047,
+      10059
+    ]
+  },
+  "damage_output|small_size": {
+    "combo": [
+      "damage_output",
+      "small_size"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10005
+    ]
+  },
+  "damage_output|survivability": {
+    "combo": [
+      "damage_output",
+      "survivability"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10003
+    ]
+  },
+  "damage_output|water_attribute": {
+    "combo": [
+      "damage_output",
+      "water_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10005,
+      10048
+    ]
+  },
+  "damage_output|weaken": {
+    "combo": [
+      "damage_output",
+      "weaken"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10047
+    ]
+  },
+  "damage_output|wind_attribute": {
+    "combo": [
+      "damage_output",
+      "wind_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10028,
+      10047,
+      10059
+    ]
+  },
+  "dark_attribute|defense": {
+    "combo": [
+      "dark_attribute",
+      "defense"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10002
+    ]
+  },
+  "dark_attribute|demihuman": {
+    "combo": [
+      "dark_attribute",
+      "demihuman"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10033
+    ]
+  },
+  "dark_attribute|demon": {
+    "combo": [
+      "dark_attribute",
+      "demon"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10002,
+      10039
+    ]
+  },
+  "dark_attribute|explosiveness": {
+    "combo": [
+      "dark_attribute",
+      "explosiveness"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10008,
+      10039,
+      10066
+    ]
+  },
+  "dark_attribute|fight_stronger": {
+    "combo": [
+      "dark_attribute",
+      "fight_stronger"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10008,
+      10066
+    ]
+  },
+  "dark_attribute|flat_tits": {
+    "combo": [
+      "dark_attribute",
+      "flat_tits"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10033,
+      10057
+    ]
+  },
+  "dark_attribute|giant_tits": {
+    "combo": [
+      "dark_attribute",
+      "giant_tits"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10002,
+      10039
+    ]
+  },
+  "dark_attribute|human": {
+    "combo": [
+      "dark_attribute",
+      "human"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10057
+    ]
+  },
+  "dark_attribute|medium_size": {
+    "combo": [
+      "dark_attribute",
+      "medium_size"
+    ],
+    "mode": "leader",
+    "pool_size": 4,
+    "per_each": 0.25,
+    "candidate_ids": [
+      10002,
+      10008,
+      10039,
+      10057
+    ]
+  },
+  "dark_attribute|obstructer": {
+    "combo": [
+      "dark_attribute",
+      "obstructer"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10033
+    ]
+  },
+  "dark_attribute|protector": {
+    "combo": [
+      "dark_attribute",
+      "protector"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10002
+    ]
+  },
+  "dark_attribute|support": {
+    "combo": [
+      "dark_attribute",
+      "support"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10057
+    ]
+  },
+  "dark_attribute|supporter": {
+    "combo": [
+      "dark_attribute",
+      "supporter"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10057
+    ]
+  },
+  "dark_attribute|survivability": {
+    "combo": [
+      "dark_attribute",
+      "survivability"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10002
+    ]
+  },
+  "dark_attribute|weaken": {
+    "combo": [
+      "dark_attribute",
+      "weaken"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10033
+    ]
+  },
+  "defense|demihuman": {
+    "combo": [
+      "defense",
+      "demihuman"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10056
+    ]
+  },
+  "defense|demon": {
+    "combo": [
+      "defense",
+      "demon"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10002
+    ]
+  },
+  "defense|giant_tits": {
+    "combo": [
+      "defense",
+      "giant_tits"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10002,
+      10056
+    ]
+  },
+  "defense|human": {
+    "combo": [
+      "defense",
+      "human"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10018
+    ]
+  },
+  "defense|medium_size": {
+    "combo": [
+      "defense",
+      "medium_size"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10002,
+      10018,
+      10056
+    ]
+  },
+  "defense|protection": {
+    "combo": [
+      "defense",
+      "protection"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10018,
+      10056
+    ]
+  },
+  "defense|protector": {
+    "combo": [
+      "defense",
+      "protector"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10002,
+      10018,
+      10056
+    ]
+  },
+  "defense|survivability": {
+    "combo": [
+      "defense",
+      "survivability"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10002,
+      10018
+    ]
+  },
+  "defense|water_attribute": {
+    "combo": [
+      "defense",
+      "water_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10056
+    ]
+  },
+  "defense|wind_attribute": {
+    "combo": [
+      "defense",
+      "wind_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10018
+    ]
+  },
+  "demihuman|explosiveness": {
+    "combo": [
+      "demihuman",
+      "explosiveness"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10004,
+      10005
+    ]
+  },
+  "demihuman|fight_stronger": {
+    "combo": [
+      "demihuman",
+      "fight_stronger"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10005
+    ]
+  },
+  "demihuman|fire_attribute": {
+    "combo": [
+      "demihuman",
+      "fire_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10045
+    ]
+  },
+  "demihuman|flat_tits": {
+    "combo": [
+      "demihuman",
+      "flat_tits"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10005,
+      10033,
+      10045
+    ]
+  },
+  "demihuman|giant_tits": {
+    "combo": [
+      "demihuman",
+      "giant_tits"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10004,
+      10056
+    ]
+  },
+  "demihuman|healer": {
+    "combo": [
+      "demihuman",
+      "healer"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10021,
+      10062
+    ]
+  },
+  "demihuman|medium_size": {
+    "combo": [
+      "demihuman",
+      "medium_size"
+    ],
+    "mode": "leader",
+    "pool_size": 5,
+    "per_each": 0.2,
+    "candidate_ids": [
+      10004,
+      10045,
+      10056,
+      10059,
+      10062
+    ]
+  },
+  "demihuman|obstructer": {
+    "combo": [
+      "demihuman",
+      "obstructer"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10033
+    ]
+  },
+  "demihuman|protection": {
+    "combo": [
+      "demihuman",
+      "protection"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10056,
+      10062
+    ]
+  },
+  "demihuman|protector": {
+    "combo": [
+      "demihuman",
+      "protector"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10056
+    ]
+  },
+  "demihuman|recovery": {
+    "combo": [
+      "demihuman",
+      "recovery"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10021,
+      10062
+    ]
+  },
+  "demihuman|small_size": {
+    "combo": [
+      "demihuman",
+      "small_size"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10005
+    ]
+  },
+  "demihuman|support": {
+    "combo": [
+      "demihuman",
+      "support"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10004,
+      10021,
+      10062
+    ]
+  },
+  "demihuman|supporter": {
+    "combo": [
+      "demihuman",
+      "supporter"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10004
+    ]
+  },
+  "demihuman|water_attribute": {
+    "combo": [
+      "demihuman",
+      "water_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10005,
+      10056,
+      10062
+    ]
+  },
+  "demihuman|weaken": {
+    "combo": [
+      "demihuman",
+      "weaken"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10033
+    ]
+  },
+  "demihuman|wind_attribute": {
+    "combo": [
+      "demihuman",
+      "wind_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10004,
+      10021,
+      10059
+    ]
+  },
+  "demon|explosiveness": {
+    "combo": [
+      "demon",
+      "explosiveness"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10028,
+      10039,
+      10048
+    ]
+  },
+  "demon|fire_attribute": {
+    "combo": [
+      "demon",
+      "fire_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10001,
+      10037,
+      10049
+    ]
+  },
+  "demon|flat_tits": {
+    "combo": [
+      "demon",
+      "flat_tits"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10037,
+      10048
+    ]
+  },
+  "demon|giant_tits": {
+    "combo": [
+      "demon",
+      "giant_tits"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10002,
+      10039
+    ]
+  },
+  "demon|healer": {
+    "combo": [
+      "demon",
+      "healer"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10049
+    ]
+  },
+  "demon|light_attribute": {
+    "combo": [
+      "demon",
+      "light_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10003
+    ]
+  },
+  "demon|medium_size": {
+    "combo": [
+      "demon",
+      "medium_size"
+    ],
+    "mode": "leader",
+    "pool_size": 5,
+    "per_each": 0.2,
+    "candidate_ids": [
+      10001,
+      10002,
+      10003,
+      10028,
+      10039
+    ]
+  },
+  "demon|obstructer": {
+    "combo": [
+      "demon",
+      "obstructer"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10037
+    ]
+  },
+  "demon|protector": {
+    "combo": [
+      "demon",
+      "protector"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10002
+    ]
+  },
+  "demon|recovery": {
+    "combo": [
+      "demon",
+      "recovery"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10049
+    ]
+  },
+  "demon|support": {
+    "combo": [
+      "demon",
+      "support"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10049
+    ]
+  },
+  "demon|survivability": {
+    "combo": [
+      "demon",
+      "survivability"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10002,
+      10003
+    ]
+  },
+  "demon|water_attribute": {
+    "combo": [
+      "demon",
+      "water_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10048
+    ]
+  },
+  "demon|weaken": {
+    "combo": [
+      "demon",
+      "weaken"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10037
+    ]
+  },
+  "demon|wind_attribute": {
+    "combo": [
+      "demon",
+      "wind_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10028
+    ]
+  },
+  "explosiveness|fight_stronger": {
+    "combo": [
+      "explosiveness",
+      "fight_stronger"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10005,
+      10008,
+      10066
+    ]
+  },
+  "explosiveness|fire_attribute": {
+    "combo": [
+      "explosiveness",
+      "fire_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10084
+    ]
+  },
+  "explosiveness|flat_tits": {
+    "combo": [
+      "explosiveness",
+      "flat_tits"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10005,
+      10048
+    ]
+  },
+  "explosiveness|giant_tits": {
+    "combo": [
+      "explosiveness",
+      "giant_tits"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10004,
+      10039
+    ]
+  },
+  "explosiveness|human": {
+    "combo": [
+      "explosiveness",
+      "human"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10019
+    ]
+  },
+  "explosiveness|light_attribute": {
+    "combo": [
+      "explosiveness",
+      "light_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10019
+    ]
+  },
+  "explosiveness|medium_size": {
+    "combo": [
+      "explosiveness",
+      "medium_size"
+    ],
+    "mode": "leader",
+    "pool_size": 5,
+    "per_each": 0.2,
+    "candidate_ids": [
+      10004,
+      10008,
+      10019,
+      10028,
+      10039
+    ]
+  },
+  "explosiveness|small_size": {
+    "combo": [
+      "explosiveness",
+      "small_size"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10005
+    ]
+  },
+  "explosiveness|support": {
+    "combo": [
+      "explosiveness",
+      "support"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10004
+    ]
+  },
+  "explosiveness|supporter": {
+    "combo": [
+      "explosiveness",
+      "supporter"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10004
+    ]
+  },
+  "explosiveness|survivability": {
+    "combo": [
+      "explosiveness",
+      "survivability"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10084
+    ]
+  },
+  "explosiveness|water_attribute": {
+    "combo": [
+      "explosiveness",
+      "water_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10005,
+      10048
+    ]
+  },
+  "explosiveness|wind_attribute": {
+    "combo": [
+      "explosiveness",
+      "wind_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10004,
+      10028
+    ]
+  },
+  "fight_stronger|flat_tits": {
+    "combo": [
+      "fight_stronger",
+      "flat_tits"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10005
+    ]
+  },
+  "fight_stronger|medium_size": {
+    "combo": [
+      "fight_stronger",
+      "medium_size"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10008
+    ]
+  },
+  "fight_stronger|small_size": {
+    "combo": [
+      "fight_stronger",
+      "small_size"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10005
+    ]
+  },
+  "fight_stronger|water_attribute": {
+    "combo": [
+      "fight_stronger",
+      "water_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10005
+    ]
+  },
+  "fire_attribute|flat_tits": {
+    "combo": [
+      "fire_attribute",
+      "flat_tits"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10037,
+      10045
+    ]
+  },
+  "fire_attribute|healer": {
+    "combo": [
+      "fire_attribute",
+      "healer"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10049,
+      10068
+    ]
+  },
+  "fire_attribute|human": {
+    "combo": [
+      "fire_attribute",
+      "human"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10068
+    ]
+  },
+  "fire_attribute|medium_size": {
+    "combo": [
+      "fire_attribute",
+      "medium_size"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10001,
+      10045,
+      10068
+    ]
+  },
+  "fire_attribute|obstructer": {
+    "combo": [
+      "fire_attribute",
+      "obstructer"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10037
+    ]
+  },
+  "fire_attribute|protection": {
+    "combo": [
+      "fire_attribute",
+      "protection"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10068
+    ]
+  },
+  "fire_attribute|recovery": {
+    "combo": [
+      "fire_attribute",
+      "recovery"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10049,
+      10068
+    ]
+  },
+  "fire_attribute|support": {
+    "combo": [
+      "fire_attribute",
+      "support"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10049,
+      10068
+    ]
+  },
+  "fire_attribute|survivability": {
+    "combo": [
+      "fire_attribute",
+      "survivability"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10084
+    ]
+  },
+  "fire_attribute|weaken": {
+    "combo": [
+      "fire_attribute",
+      "weaken"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10037
+    ]
+  },
+  "flat_tits|human": {
+    "combo": [
+      "flat_tits",
+      "human"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10057
+    ]
+  },
+  "flat_tits|medium_size": {
+    "combo": [
+      "flat_tits",
+      "medium_size"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10045,
+      10057
+    ]
+  },
+  "flat_tits|obstructer": {
+    "combo": [
+      "flat_tits",
+      "obstructer"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10033,
+      10037
+    ]
+  },
+  "flat_tits|small_size": {
+    "combo": [
+      "flat_tits",
+      "small_size"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10005
+    ]
+  },
+  "flat_tits|support": {
+    "combo": [
+      "flat_tits",
+      "support"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10057
+    ]
+  },
+  "flat_tits|supporter": {
+    "combo": [
+      "flat_tits",
+      "supporter"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10057
+    ]
+  },
+  "flat_tits|water_attribute": {
+    "combo": [
+      "flat_tits",
+      "water_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10005,
+      10048
+    ]
+  },
+  "flat_tits|weaken": {
+    "combo": [
+      "flat_tits",
+      "weaken"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10033,
+      10037
+    ]
+  },
+  "giant_tits|human": {
+    "combo": [
+      "giant_tits",
+      "human"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10063
+    ]
+  },
+  "giant_tits|light_attribute": {
+    "combo": [
+      "giant_tits",
+      "light_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10063
+    ]
+  },
+  "giant_tits|medium_size": {
+    "combo": [
+      "giant_tits",
+      "medium_size"
+    ],
+    "mode": "leader",
+    "pool_size": 5,
+    "per_each": 0.2,
+    "candidate_ids": [
+      10002,
+      10004,
+      10039,
+      10056,
+      10063
+    ]
+  },
+  "giant_tits|protection": {
+    "combo": [
+      "giant_tits",
+      "protection"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10056
+    ]
+  },
+  "giant_tits|protector": {
+    "combo": [
+      "giant_tits",
+      "protector"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10002,
+      10056
+    ]
+  },
+  "giant_tits|recovery": {
+    "combo": [
+      "giant_tits",
+      "recovery"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10063
+    ]
+  },
+  "giant_tits|support": {
+    "combo": [
+      "giant_tits",
+      "support"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10004,
+      10063
+    ]
+  },
+  "giant_tits|supporter": {
+    "combo": [
+      "giant_tits",
+      "supporter"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10004,
+      10063
+    ]
+  },
+  "giant_tits|survivability": {
+    "combo": [
+      "giant_tits",
+      "survivability"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10002
+    ]
+  },
+  "giant_tits|water_attribute": {
+    "combo": [
+      "giant_tits",
+      "water_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10056
+    ]
+  },
+  "giant_tits|wind_attribute": {
+    "combo": [
+      "giant_tits",
+      "wind_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10004
+    ]
+  },
+  "healer|human": {
+    "combo": [
+      "healer",
+      "human"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10006,
+      10068
+    ]
+  },
+  "healer|medium_size": {
+    "combo": [
+      "healer",
+      "medium_size"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10062,
+      10068
+    ]
+  },
+  "healer|protection": {
+    "combo": [
+      "healer",
+      "protection"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10062,
+      10068
+    ]
+  },
+  "healer|recovery": {
+    "combo": [
+      "healer",
+      "recovery"
+    ],
+    "mode": "leader",
+    "pool_size": 5,
+    "per_each": 0.2,
+    "candidate_ids": [
+      10006,
+      10021,
+      10049,
+      10062,
+      10068
+    ]
+  },
+  "healer|support": {
+    "combo": [
+      "healer",
+      "support"
+    ],
+    "mode": "leader",
+    "pool_size": 4,
+    "per_each": 0.25,
+    "candidate_ids": [
+      10021,
+      10049,
+      10062,
+      10068
+    ]
+  },
+  "healer|water_attribute": {
+    "combo": [
+      "healer",
+      "water_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10062
+    ]
+  },
+  "healer|wind_attribute": {
+    "combo": [
+      "healer",
+      "wind_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10006,
+      10021
+    ]
+  },
+  "human|light_attribute": {
+    "combo": [
+      "human",
+      "light_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10019,
+      10063
+    ]
+  },
+  "human|medium_size": {
+    "combo": [
+      "human",
+      "medium_size"
+    ],
+    "mode": "leader",
+    "pool_size": 7,
+    "per_each": 0.14285714285714285,
+    "candidate_ids": [
+      10018,
+      10019,
+      10020,
+      10047,
+      10057,
+      10063,
+      10068
+    ]
+  },
+  "human|obstructer": {
+    "combo": [
+      "human",
+      "obstructer"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10020
+    ]
+  },
+  "human|protection": {
+    "combo": [
+      "human",
+      "protection"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10018,
+      10068
+    ]
+  },
+  "human|protector": {
+    "combo": [
+      "human",
+      "protector"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10018
+    ]
+  },
+  "human|recovery": {
+    "combo": [
+      "human",
+      "recovery"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10006,
+      10063,
+      10068
+    ]
+  },
+  "human|support": {
+    "combo": [
+      "human",
+      "support"
+    ],
+    "mode": "leader",
+    "pool_size": 4,
+    "per_each": 0.25,
+    "candidate_ids": [
+      10020,
+      10057,
+      10063,
+      10068
+    ]
+  },
+  "human|supporter": {
+    "combo": [
+      "human",
+      "supporter"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10057,
+      10063
+    ]
+  },
+  "human|survivability": {
+    "combo": [
+      "human",
+      "survivability"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10018
+    ]
+  },
+  "human|weaken": {
+    "combo": [
+      "human",
+      "weaken"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10020,
+      10047
+    ]
+  },
+  "human|wind_attribute": {
+    "combo": [
+      "human",
+      "wind_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 4,
+    "per_each": 0.25,
+    "candidate_ids": [
+      10006,
+      10018,
+      10020,
+      10047
+    ]
+  },
+  "light_attribute|medium_size": {
+    "combo": [
+      "light_attribute",
+      "medium_size"
+    ],
+    "mode": "leader",
+    "pool_size": 4,
+    "per_each": 0.25,
+    "candidate_ids": [
+      10003,
+      10007,
+      10019,
+      10063
+    ]
+  },
+  "light_attribute|recovery": {
+    "combo": [
+      "light_attribute",
+      "recovery"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10063
+    ]
+  },
+  "light_attribute|support": {
+    "combo": [
+      "light_attribute",
+      "support"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10007,
+      10063
+    ]
+  },
+  "light_attribute|supporter": {
+    "combo": [
+      "light_attribute",
+      "supporter"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10063
+    ]
+  },
+  "light_attribute|survivability": {
+    "combo": [
+      "light_attribute",
+      "survivability"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10003
+    ]
+  },
+  "medium_size|obstructer": {
+    "combo": [
+      "medium_size",
+      "obstructer"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10020
+    ]
+  },
+  "medium_size|protection": {
+    "combo": [
+      "medium_size",
+      "protection"
+    ],
+    "mode": "leader",
+    "pool_size": 4,
+    "per_each": 0.25,
+    "candidate_ids": [
+      10018,
+      10056,
+      10062,
+      10068
+    ]
+  },
+  "medium_size|protector": {
+    "combo": [
+      "medium_size",
+      "protector"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10002,
+      10018,
+      10056
+    ]
+  },
+  "medium_size|recovery": {
+    "combo": [
+      "medium_size",
+      "recovery"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10062,
+      10063,
+      10068
+    ]
+  },
+  "medium_size|support": {
+    "combo": [
+      "medium_size",
+      "support"
+    ],
+    "mode": "leader",
+    "pool_size": 7,
+    "per_each": 0.14285714285714285,
+    "candidate_ids": [
+      10004,
+      10007,
+      10020,
+      10057,
+      10062,
+      10063,
+      10068
+    ]
+  },
+  "medium_size|supporter": {
+    "combo": [
+      "medium_size",
+      "supporter"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10004,
+      10057,
+      10063
+    ]
+  },
+  "medium_size|survivability": {
+    "combo": [
+      "medium_size",
+      "survivability"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10002,
+      10003,
+      10018
+    ]
+  },
+  "medium_size|water_attribute": {
+    "combo": [
+      "medium_size",
+      "water_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10056,
+      10062
+    ]
+  },
+  "medium_size|weaken": {
+    "combo": [
+      "medium_size",
+      "weaken"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10020,
+      10047
+    ]
+  },
+  "medium_size|wind_attribute": {
+    "combo": [
+      "medium_size",
+      "wind_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 6,
+    "per_each": 0.16666666666666666,
+    "candidate_ids": [
+      10004,
+      10018,
+      10020,
+      10028,
+      10047,
+      10059
+    ]
+  },
+  "obstructer|support": {
+    "combo": [
+      "obstructer",
+      "support"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10020
+    ]
+  },
+  "obstructer|weaken": {
+    "combo": [
+      "obstructer",
+      "weaken"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10020,
+      10033,
+      10037
+    ]
+  },
+  "obstructer|wind_attribute": {
+    "combo": [
+      "obstructer",
+      "wind_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10020
+    ]
+  },
+  "protection|protector": {
+    "combo": [
+      "protection",
+      "protector"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10018,
+      10056
+    ]
+  },
+  "protection|recovery": {
+    "combo": [
+      "protection",
+      "recovery"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10062,
+      10068
+    ]
+  },
+  "protection|support": {
+    "combo": [
+      "protection",
+      "support"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10062,
+      10068
+    ]
+  },
+  "protection|survivability": {
+    "combo": [
+      "protection",
+      "survivability"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10018
+    ]
+  },
+  "protection|water_attribute": {
+    "combo": [
+      "protection",
+      "water_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10056,
+      10062
+    ]
+  },
+  "protection|wind_attribute": {
+    "combo": [
+      "protection",
+      "wind_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10018
+    ]
+  },
+  "protector|survivability": {
+    "combo": [
+      "protector",
+      "survivability"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10002,
+      10018
+    ]
+  },
+  "protector|water_attribute": {
+    "combo": [
+      "protector",
+      "water_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10056
+    ]
+  },
+  "protector|wind_attribute": {
+    "combo": [
+      "protector",
+      "wind_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10018
+    ]
+  },
+  "recovery|support": {
+    "combo": [
+      "recovery",
+      "support"
+    ],
+    "mode": "leader",
+    "pool_size": 5,
+    "per_each": 0.2,
+    "candidate_ids": [
+      10021,
+      10049,
+      10062,
+      10063,
+      10068
+    ]
+  },
+  "recovery|supporter": {
+    "combo": [
+      "recovery",
+      "supporter"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10063
+    ]
+  },
+  "recovery|water_attribute": {
+    "combo": [
+      "recovery",
+      "water_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10062
+    ]
+  },
+  "recovery|wind_attribute": {
+    "combo": [
+      "recovery",
+      "wind_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10006,
+      10021
+    ]
+  },
+  "small_size|water_attribute": {
+    "combo": [
+      "small_size",
+      "water_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10005
+    ]
+  },
+  "support|supporter": {
+    "combo": [
+      "support",
+      "supporter"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10004,
+      10057,
+      10063
+    ]
+  },
+  "support|water_attribute": {
+    "combo": [
+      "support",
+      "water_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10062
+    ]
+  },
+  "support|weaken": {
+    "combo": [
+      "support",
+      "weaken"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10020
+    ]
+  },
+  "support|wind_attribute": {
+    "combo": [
+      "support",
+      "wind_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 3,
+    "per_each": 0.3333333333333333,
+    "candidate_ids": [
+      10004,
+      10020,
+      10021
+    ]
+  },
+  "supporter|wind_attribute": {
+    "combo": [
+      "supporter",
+      "wind_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10004
+    ]
+  },
+  "survivability|wind_attribute": {
+    "combo": [
+      "survivability",
+      "wind_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 1,
+    "per_each": 1.0,
+    "candidate_ids": [
+      10018
+    ]
+  },
+  "weaken|wind_attribute": {
+    "combo": [
+      "weaken",
+      "wind_attribute"
+    ],
+    "mode": "leader",
+    "pool_size": 2,
+    "per_each": 0.5,
+    "candidate_ids": [
+      10020,
+      10047
+    ]
+  }
+}

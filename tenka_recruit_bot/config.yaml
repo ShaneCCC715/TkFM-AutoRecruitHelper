@@ -1,0 +1,99 @@
+adb:
+  executable: "C:\\Program Files\\BlueStacks_nxt\\HD-Adb.exe"
+  device: "127.0.0.1:5555"
+
+runtime:
+  debug_save_screens: true
+  debug_dir: "assets/debug"
+  tap_delay_sec: 0.8
+  screen_poll_interval_sec: 0.8
+  max_retry: 3
+  max_auto_rounds: 5
+
+game:
+  resolution:
+    width: 900
+    height: 1600
+
+  # 先用比例座標，之後再替換成模板定位
+  regions:
+    slot_list:
+      x1: 0.05
+      y1: 0.12
+      x2: 0.95
+      y2: 0.82
+
+    recruit_conditions:
+      x1: 0.10
+      y1: 0.30
+      x2: 0.90
+      y2: 0.53
+
+    timer_panel:
+      x1: 0.08
+      y1: 0.12
+      x2: 0.72
+      y2: 0.28
+
+  buttons:
+    start_recruit:
+      template: start_recruit
+      x: 0.70
+      y: 0.82
+      search_half_width: 0.18
+      search_half_height: 0.05
+      threshold: 0.93
+
+    sure:
+      template: sure
+      x: 0.68
+      y: 0.60
+      search_half_width: 0.18
+      search_half_height: 0.05
+      threshold: 0.93
+
+    skip:
+      template: skip
+      x: 0.82
+      y: 0.06
+      search_half_width: 0.12
+      search_half_height: 0.04
+      threshold: 0.90
+
+    one_time_admission:
+      template: one_time_admission
+      x: 0.50
+      y: 0.84
+      search_half_width: 0.18
+      search_half_height: 0.07
+      threshold: 0.93
+
+    close:
+      template: close
+      x: 0.50
+      y: 0.93
+      search_half_width: 0.18
+      search_half_height: 0.07
+      threshold: 0.93
+
+    timer_panel:
+      template: timer_panel_full
+      x: 0.50
+      y: 0.23
+      search_half_width: 0.42
+      search_half_height: 0.14
+      threshold: 0.93
+
+    urgent_recruitment:
+      template: urgent_recruitment
+      x: 0.72
+      y: 0.43
+      search_half_width: 0.20
+      search_half_height: 0.08
+      threshold: 0.93
+
+  timer:
+    enabled: true
+    mode: "hour_down_once"
+    hour_down_rel_x: 0.19
+    hour_down_rel_y: 0.80
